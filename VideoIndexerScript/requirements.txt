@@ -1,0 +1,5 @@
+requests==2.25.1
+azure-common==1.1.26
+azure-core==1.10.0
+azure-storage-blob==2.1.0
+azure-storage-common==2.1.0

@@ -1,0 +1,10 @@
+{
+    "storage_account_name": "",
+    "storage_account_key": "",
+    "storage_container_name": "",
+    "video_indexer_account_id": "",
+    "video_indexer_api_key": "",
+    "video_indexer_api_region": "",
+    "file_name": "",
+    "confidence_threshold": 0.9
+}
